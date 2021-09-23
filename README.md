@@ -1,4 +1,4 @@
-# SqueezeNet vs AlexNet: On the challenges of training condensed networks
+# SqueezeNet vs AlexNet: On the challenges of training condensed neural networks
 _Original title: “Size isn’t everything, it’s what you (can) do with it that counts”: a comparison of SqueezeNet and AlexNet_
 
 **analyses by:** Xavier Morin Duchesne  
